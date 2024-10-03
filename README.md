@@ -1,2 +1,2 @@
-# POSTECH-CSED231
-Source code for 2022S - POSTECH CSED231 (OOP) Course Assignment.
+# POSTECH-CSED232
+Source code for 2022S - POSTECH CSED232 (OOP) Course Assignment.
